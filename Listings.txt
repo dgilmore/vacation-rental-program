@@ -1,0 +1,9 @@
+10004,Portland,133 NE 83rd,97220,Dj,Gilmore,92,2,6,1,0,key under mat,01
+10005,Seattle,212 Grace Court,78766,Adam,Wannts,106,2,6,1,0,key at bodega,01
+20001,Portland,1245 Mill St,97220,shirly,bagels,107,3,8,true,true,123,02
+20002,Salem,1023 Porch hill rd,65564,Mike,Longess,56,1,4,false,true,342,02
+20004,Eugene,1022 Sky dog ranch rd,87665,Jim,Tome,75,2,6,false,true,221,02
+10012,Portland,555 skiside rd, 56776,Roger,Blanks,78,3,6,1,0,internet out,01
+10023,Seattle,5456 longmot castle rd,333323,Hiplem,Joinkens,45,10,100,1,0,creepy old man there,01
+10022,Seattle,544 tabor mt,22233,Jorgen,Ejpson,200,3,5,10,022,posh apartment,01
+20004,Salem,4443 sports barn way,88889,Colby,Tomelsi,160,4,8,false,true,123,02
